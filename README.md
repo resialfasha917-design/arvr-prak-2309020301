@@ -1,3 +1,3 @@
-- Nama : ................
-- NIM : ................
-- Link demo : https://USERNAME.github.io/arvr-prak-NIM/
+- Nama : Resi Alfasha
+- NIM : 2309020301
+- Link demo : https://resialfasha917-design.github.io/arvr-prak-2309020301/
